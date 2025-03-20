@@ -1,5 +1,5 @@
 Oláá! Sou Jacquet Lemé.
-Estudante Ciência da computação( UFFS) 
+Estudante Ciência da computação(UFFS, software developer)
 
 <div align="center">
   <a href="https://github.com/Jacquet12">
